@@ -1,0 +1,1737 @@
+[
+  {
+    "To": "Aaron and Sherry",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "eidelman",
+    "FALSE": "FALSE",
+    "undefined": "need wife"
+  },
+  {
+    "To": "Adam and Pearl",
+    "Gift": "Cash",
+    "Type": "cash-attended-us",
+    "Filename": "Adam and Pearl Rawson",
+    "FALSE": "TRUE"
+  },
+  {
+    "To": "Adi",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Adi Simon",
+    "FALSE": "FALSE",
+    "undefined": "need email"
+  },
+  {
+    "To": "Alan",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Alan Genachowski",
+    "FALSE": "TRUE"
+  },
+  {
+    "To": "Alan ",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "ALAN MANOCHERIAN",
+    "FALSE": "FALSE",
+    "undefined": "need wife"
+  },
+  {
+    "To": "Alex",
+    "Gift": "Soap Dispenser",
+    "Type": "gift-virtual",
+    "Filename": "Alex Bergman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Alisa",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Alisa Weinrib",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Alison and Elliot",
+    "Gift": "Bakeware Set",
+    "Type": "gift-virtual",
+    "Filename": "Alison and Elliot Adler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Aliza and Benny",
+    "Gift": "Racko",
+    "Type": "gift-virtual",
+    "Filename": "Aliza and Benny Aivazi",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Alona and Morty",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Alona and Morty Chwat",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Alyssa and Jonathan",
+    "Gift": "Dyson",
+    "Type": "gift-attended",
+    "Filename": "Alyssa and Jonathan Gellis",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Amit",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Amit Broide",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Amy and Myron, \nJessica and Josh",
+    "Gift": "Cash",
+    "Type": "gift-attended-us",
+    "Filename": "Amy and Myron Eagle, \nJessica and Josh",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Andrea",
+    "Gift": "Salt and Pepper Grinder",
+    "Type": "gift-virtual",
+    "Filename": "Andrea Hollander",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Anita",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Anita Chwat",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ann and Andrew ",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Ann and Andrew Singer",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Anne and Charlie",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Anne and Charlie Bartel",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ari and Alyssa",
+    "Gift": "Dyson",
+    "Type": "gift-virtual",
+    "Filename": "Ari and Alyssa Forman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ari and Siviya",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ari and Siviya Chwat",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ari",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ari Gertner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ariel",
+    "Gift": "picture frame",
+    "Type": "gift-attended",
+    "Filename": "Ariel Baron",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ariel",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ariel Effergan",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Arielle and Eitan",
+    "Gift": "Popcorn Bowl\nMini Cutting Board",
+    "Type": "gift-virtual",
+    "Filename": "Arielle and Eitan Dechter",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Arik and Miriam",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Arik and Miriam Zaider",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Aron and Michal",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Aron Gordon and Michal",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Aunt Betty",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Aunt Betty",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Avishai",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Avishai BenTovim",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Avraham and Miriam",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Avraham and Miriam Weinberg",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ayala",
+    "Gift": "Pots and Pans",
+    "Type": "gift-virtual",
+    "Filename": "Ayala Deutsch",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ayelet and Zach",
+    "Gift": "Serving Tongs",
+    "Type": "gift-virtual",
+    "Filename": "Ayelet Rosenberg and Zach Bitton",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Azriel and Batya",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Azriel and Batya Novogroder",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Barry and Debbie",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Barry and Debbie Kupfer",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Barry and Mindy",
+    "Gift": "Serving Dish",
+    "Type": "gift-virtual",
+    "Filename": "Barry and Mindy Zisholtz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Batsheva",
+    "Gift": "Drinkware Set",
+    "Type": "gift-attended",
+    "Filename": "Batsheva Haber",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Batya and Nachi",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Batya and Nachi Paul",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Batya and Rabbi Daniel Friedman",
+    "Gift": "Hammock, Vase",
+    "Type": "gift-virtual",
+    "Filename": "Batya and Rabbi Daniel Friedman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Becky and Avi",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Becky and Avi Katz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Bella and Yaakov",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Bella and Yaakov Grosz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ben and Gila",
+    "Gift": "Dyson",
+    "Type": "gift-virtual",
+    "Filename": "Ben and Gila Reider",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ben and Nomi",
+    "Gift": "Cash",
+    "Type": "cash-attended-us",
+    "Filename": "Ben and Nomi Smilchensky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ben and Shira",
+    "Gift": "laundry basket",
+    "Type": "gift-attended",
+    "Filename": "Ben and Shira Schreiber",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ben",
+    "Gift": "pans",
+    "Type": "gift-attended-us",
+    "Filename": "Ben Taragin",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Benzion and Janine",
+    "Gift": "Cash",
+    "Filename": "Benzion and Janine Shapira",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Bernard",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Bernard Suskewicz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Bernice",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Bernice Baum",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Bernice",
+    "Gift": "comforters",
+    "Filename": "Bernice Weiss",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Betsy and Jay",
+    "Gift": "Knives",
+    "Type": "gift-virtual",
+    "Filename": "Betsy and Jay Cohen",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Betty, Josh and Dianne",
+    "Gift": "tea light holder and kitchen gadget",
+    "Type": "gift-virtual",
+    "Filename": "Betty, Josh and Dianne Weinberg",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Brian and Lacey",
+    "Gift": "Wine Glasses",
+    "Type": "gift-virtual",
+    "Filename": "Brian and Lacey Kalb",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Bruce, Helen and Irene",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Bruce, Helen and Irene Rabinowitz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Carl",
+    "Gift": "Knives",
+    "Type": "gift-virtual",
+    "Filename": "Carl Feit",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Chaim and Rivka",
+    "Gift": "Presents from Yad Lkasish and the home goods (from our engagement party)",
+    "Type": "gift-attended",
+    "Filename": "Chaim and Rivka Reich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Chaim and Sima",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Chaim and Sima Shmell",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Chana and Dani",
+    "Gift": "Spice Rack",
+    "Type": "gift-virtual",
+    "Filename": "Chana and Dani Kohn",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Chani and Shai Adler",
+    "Gift": "bowls",
+    "Type": "gift-attended",
+    "Filename": "Chani and Shai Adler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Chedva and Jordan",
+    "Gift": "dish rack",
+    "Type": "gift-attended",
+    "Filename": "Chedva and Jordan Lustman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dalia and Adiel",
+    "Gift": "Cast Iron Skillet",
+    "Type": "gift-attended",
+    "Filename": "Dalia and Adiel Zivan",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dana",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Dana Dellus",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dana",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Dana Rabinowitz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Danny and Cindy",
+    "Gift": "meat thermometer and chuppah glass art",
+    "Type": "gift-attended",
+    "Filename": "Danny and Cindy Mann ",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Danny and Renee",
+    "Gift": "Salt and Pepper Shakers",
+    "Type": "gift-virtual",
+    "Filename": "Danny and Renee Seidman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Daphna",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Daphna Hoffman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dassie and Avi",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Dassie and Avi Lev",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "David and Gwynne",
+    "Gift": "Garlic Press",
+    "Type": "gift-attended",
+    "Filename": "David and Gwynne Stein",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "David and Judy ",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "David and Judy Chinn and Fam",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Debby and Chaim",
+    "Gift": "Serving dishes",
+    "Type": "gift-attended",
+    "Filename": "Debby and Chaim Putterman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Deborah and Jonathan",
+    "Gift": "Cutlery and Placemates",
+    "Type": "gift-virtual",
+    "Filename": "Deborah and Jonathan David",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dina and Mayer",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Dina and Mayer Reich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dina",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Dina Ohebshalom",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dorienne and Benjy",
+    "Gift": "Knife",
+    "Type": "gift-virtual",
+    "Filename": "Dorienne and Benjy Planer",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dorit",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Dorit Dil Nahlieli",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Claudia, Marcos & Esther",
+    "Gift": "Serving Bowl",
+    "Type": "gift-virtual",
+    "Filename": "Douer",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dov and Naomi",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Dov and Naomi Greenblat",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dovi and Mirush Feldman",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Dovi and Mirush Feldman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dovid and Reba",
+    "Gift": "Cash",
+    "Type": "cash-attended-us",
+    "Filename": "Dovid and Reba Baum",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Dovid and Yehudis",
+    "Gift": "Serving Bowl",
+    "Type": "gift-attended",
+    "Filename": "Dovid and Yehudis Goldschein",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Edana and Lloyd",
+    "Gift": "Bar Cart",
+    "Type": "gift-virtual",
+    "Filename": "Edana and Lloyd Desatnick",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Elad and Shlomit",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Elad and Shlomit Amit",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Elana and Ira",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Elana and Ira Tepler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Eli and Etty",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Eli and Etty Shimron",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Emily and David",
+    "Gift": "Serving Bowls",
+    "Type": "gift-virtual",
+    "Filename": "Emily and David Solooki",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Esther, Gary and Chana",
+    "Gift": "Bedding and Pitcher",
+    "Type": "gift-attended",
+    "Filename": "Esther, Gary and Chana Bacharach",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Eva and Yudi",
+    "Gift": "Cash",
+    "Type": "gift-virtual",
+    "Filename": "Eva and Yudi Lefkowitz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Faige and Gedaliya",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Faige and Gedaliya Borvik",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Faygie",
+    "Gift": "Cutting Boards",
+    "Type": "gift-attended",
+    "Filename": "Faygie Feiner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rella and Curtis",
+    "Gift": "Vase",
+    "Type": "gift-virtual",
+    "Filename": "Feldman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "To",
+    "Gift": "Gift",
+    "Type": "Type",
+    "Filename": "Filename",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Flora",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Flora Press",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Florence",
+    "Gift": "Throw Blanket",
+    "Type": "gift-virtual",
+    "Filename": "Florence Fischman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Fran and Sam",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Fran and Sam Ebel",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Gali and Ari",
+    "Gift": "Kitchen goods",
+    "Type": "gift-attended",
+    "Filename": "Gali Sadek and Ari Geller",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Gary and Judi",
+    "Gift": "Utensil Holder",
+    "Type": "gift-virtual",
+    "Filename": "Gary and Judi Krasna",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "George and Bonnie",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "George and Bonnie Silfen",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "GIl and Naama",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "GIl and Naama Reich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Aylon & Ariella",
+    "Gift": "carry on luggage",
+    "Filename": "Glaser",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Glenda and David",
+    "Gift": "Lamp ",
+    "Type": "gift-attended",
+    "Filename": "Glenda and David Steiner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Golda and Yuri",
+    "Gift": "Kitchen Goods",
+    "Type": "gift-virtual",
+    "Filename": "Golda Gershkovich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Hana",
+    "Gift": "Camping Chairs",
+    "Type": "gift-attended",
+    "Filename": "Hana Fusman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Hedy and Joel",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Hedy and Joel Ruttman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Hila and Adam",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Hila and Adam Berner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Hildee and Gary",
+    "Gift": "Kitchen Goods",
+    "Type": "gift-attended",
+    "Filename": "Hildee and Gary Weiss",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Hillel",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Hillel Gordon",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ilana",
+    "Gift": "Dinner Plates",
+    "Type": "gift-virtual",
+    "Filename": "Ilana Glickman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Irit and Baruch",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Irit and Baruch Moore",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Isaac",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Isaac Buchine",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Israel and Leah",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Israel and Leah Wallach",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Izzy",
+    "Gift": "cash",
+    "Type": "cash-virtual",
+    "Filename": "Izzy Glickman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jack and Denise",
+    "Gift": "twin comforter",
+    "Type": "gift-virtual",
+    "Filename": "Jack Warsawsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jackie and Mark",
+    "Gift": "Challah Cover",
+    "Type": "gift-virtual",
+    "Filename": "Jackie and Mark Horowitz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Janet and Roy",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Janet and Roy Shmuckler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Janet",
+    "Gift": "KumKum",
+    "Type": "gift-attended",
+    "Filename": "Janet Lefkowitz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Janet",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Janet Rotenberg",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jen and Yasaf",
+    "Gift": "Crockpot and awsome wooden die",
+    "Type": "gift-attended",
+    "Filename": "Jennifer Brenis",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jerri and Rebecca",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Jerri and Rebecca Weinreich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jessica and Charly",
+    "Gift": "vacuum",
+    "Type": "gift-attended",
+    "Filename": "Jessica and Charly Setbon",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jessica",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Jessica Kane",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jill and David",
+    "Gift": "Serving Dish",
+    "Type": "gift-virtual",
+    "Filename": "Jill Blumenthal",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Joe",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Joe Kanner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Joel and Ellen ",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Joel and Ellen Rothwax ",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "John and Yael",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "John and Yael Mosery",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Joy and Barry",
+    "Gift": "king comforter",
+    "Type": "gift-virtual",
+    "Filename": "Joy and Barry Sklar",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Judy and Bob",
+    "Gift": "Cash",
+    "Type": "cash-attended-us",
+    "Filename": "Judy and Bob Friedman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Judy and Brad",
+    "Gift": "Dinner plates, bowls, placemats and Wine glasses",
+    "Type": "gift-attended-us",
+    "Filename": "Judy and Brad Scher",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Judy and Gerry",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Judy and Gerry Traub",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Karen and Allen",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Karen and Allen Perl",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Kenny and Ruchie",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Kenny and Ruchie Brander",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ksenia",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ksenia Evin",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Kyra and Shlomo",
+    "Gift": "baking dishes",
+    "Type": "gift-attended",
+    "Filename": "Kyra and Shlomo Ashkenazy",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Lala and Elor",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Lala Schwartz and Elor",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Lauren",
+    "Gift": "Tool Kit",
+    "Type": "gift-virtual",
+    "Filename": "Lauren Shinar",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Leah ",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Leah Reich Cutler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Leetal and Yishai",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Leetal and Yishai Gordon",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Leetal",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Leetal Oknin",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Adam and Sara",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Leffel",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Leslie and Harvey",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Leslie and Harvey Kleinman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Lia",
+    "Gift": "bowls",
+    "Type": "gift-virtual",
+    "Filename": "Lia Hartman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Lori and Hesh",
+    "Gift": "iRobot, silverware and bedding",
+    "Type": "gift-attended-us",
+    "Filename": "Lori Lieman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Malka",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Malka Shimron",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Marc and Elana",
+    "Gift": "Dyson",
+    "Type": "gift-virtual",
+    "Filename": "Marc and Elana Rothenberg",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Marcia",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Marcia Baum",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Mark and Genene",
+    "Gift": "Challah Board",
+    "Type": "gift-virtual",
+    "Filename": "Mark and Genene Kaye",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Mark and Orly",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Mark and Orly Chaz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Marla and Jeff",
+    "Gift": "OXO containers",
+    "Type": "gift-attended-us",
+    "Filename": "Marla Traub",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Marvin and Karen",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Marvin and Karen Sperling",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Marylin and Benny",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Marylin and Benny Monetta",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Matias and Gila",
+    "Gift": "serving platter",
+    "Type": "gift-virtual",
+    "Filename": "Matias and Gila Davidovsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Matias",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Matias Davidovsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Max and Noms",
+    "Gift": "hiking backpack (for peru) and salad tongs",
+    "Type": "gift-attended",
+    "Filename": "Max Schlussel and Noms",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Maya and Tzach",
+    "Gift": "Spice Rack",
+    "Type": "gift-attended",
+    "Filename": "Maya and Tzach Friedman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Maya and Yakir",
+    "Gift": "kitchen spoons",
+    "Type": "gift-attended",
+    "Filename": "Maya Borzak and Yakir Greenberg",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Maya and Yona",
+    "Gift": "poppy bowls",
+    "Type": "gift-attended",
+    "Filename": "Maya Pretsfelder and Yona Steinman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Meira",
+    "Gift": "picture frame",
+    "Type": "gift-attended",
+    "Filename": "Meira Levi",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Menachem",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Menachem Pritzker",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Josh and Davida",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Menashas",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Merav and Dotam ",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Merav and Dotam Hambuger",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Michael and Alyssa",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Michael and Alyssa Katz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Michael and Lauren",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Michael and Lauren Schwartz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rabbie Michael and Elie",
+    "Gift": "pillows",
+    "Type": "gift-virtual",
+    "Filename": "Michael Berger",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Michal and Corey",
+    "Gift": "serving platter",
+    "Type": "gift-attended",
+    "Filename": "Michal and Corey Gold",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Michal and Gad",
+    "Gift": "Hot Plate",
+    "Type": "gift-virtual",
+    "Filename": "Michal and Gad Cohen",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Michelle",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Michelle Bodoff",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Mike and Naomi",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Mike and Naomi Baum",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Mikey ",
+    "Gift": "Collander and measuring cups",
+    "Type": "gift-virtual",
+    "Filename": "Mikey Pollack",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Miriam ",
+    "Gift": "Cash",
+    "Type": "cash-attended-us",
+    "Filename": "Miriam Levy (Miami Beach)",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Monica and David",
+    "Gift": "Mixology Kit and Bedding",
+    "Type": "gift-virtual",
+    "Filename": "Monica and David Brooks",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Motti and Amy",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Motti and Amy Amit",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Mr. and Mrs. Chef",
+    "Gift": "knives",
+    "Type": "gift-virtual",
+    "Filename": "Mr. and Mrs. Chef",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Naftali and Meira",
+    "Gift": "Challah Board",
+    "Type": "gift-attended",
+    "Filename": "Naftali and Meira Shimron",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Naomi",
+    "Gift": "serving bowl",
+    "Type": "gift-virtual",
+    "Filename": "Naomi Shachter",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Tash and Barth",
+    "Gift": "bowls",
+    "Type": "gift-attended",
+    "Filename": "Natasha and David Barth",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Nili and Danny",
+    "Gift": "Cash",
+    "Type": "cash-attended-us",
+    "Filename": "Nili and Danny Sklar",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Nina and Mark",
+    "Gift": "Bedding",
+    "Type": "gift-virtual",
+    "Filename": "Nina and Mark Roisman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Nitza and Peretz",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Nitza and Peretz Winkler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Noa and Orasio",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Noa and Orasio",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Noam and Lior",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Noam and Lior Amit",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Nomi and Andrew",
+    "Gift": "bowls",
+    "Type": "gift-virtual",
+    "Filename": "Nomi and Andrew Katz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ofir and Naomy",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ofir and Naomy Shimron",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ohad the king",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ohad Etsion",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Omer and Michal",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Omer and Michal Moore",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Oriel and Eliana ",
+    "Gift": "Napkin Holder\nShabbat Lamp",
+    "Type": "gift-attended",
+    "Filename": "Oriel and Eliana Rohrig-Farajun",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Jay and Penina",
+    "Gift": "pots and pan set",
+    "Filename": "Orlinsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Orly Wolynetz and Tzachi",
+    "Gift": "ktichen gadgets",
+    "Type": "gift-attended",
+    "Filename": "Orly Wolynetz and Tzachi",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ossi and Sam",
+    "Gift": "Picture Frame",
+    "Type": "gift-virtual",
+    "Filename": "Ossi and Sam Abraham",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Paul, Judy and Carly",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Paul, Judy and Carly Dauber",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Peleg and Shirly",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Peleg Winkler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rabbi and Karen Prusansky",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Rabbi and Karen Prusansky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rabbi Josh and Rena Einzig",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Rabbi Josh and Rena Einzig",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rabbi Brueckheimer",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Rabbi Meier Brueckheimer",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rachel",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Rachel Feiner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rachel",
+    "Gift": "serving bowls and drinkware set",
+    "Type": "gift-virtual",
+    "Filename": "Rachel Schneider",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Raquel",
+    "Gift": "Tent",
+    "Type": "gift-attended",
+    "Filename": "Raquel Benaim",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Reem and Sharon",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Reem Winkler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rena and Victor",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Rena and Victor Fein",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Richard and Joan",
+    "Gift": "tablecloth",
+    "Type": "gift-virtual",
+    "Filename": "Richard and Joan Alexander",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rina Scott",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Rina Scott",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rita and Marty",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Rita and Marty Goldstein",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rita and Orit",
+    "Gift": "utensil holder and pyrex storage",
+    "Type": "gift-attended",
+    "Filename": "Rita Lefkowitz and Orit",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ronen and Orly",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Ronen Reich and Orly and Fam",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Roni and Chanan",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Roni and Chanan Gordon",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rony and Yonah",
+    "Gift": "kitchen and bathroom gadgets",
+    "Type": "gift-attended",
+    "Filename": "Rony and Yonah Goldscheider",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rony",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Rony Sklar",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Roy",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Roy Ravid",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Rueven and Jennie",
+    "Gift": "Gift Card",
+    "Type": "gift-virtual",
+    "Filename": "Rueven and Jennie Mohl",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Ruthie",
+    "Gift": "silverware",
+    "Type": "gift-virtual",
+    "Filename": "Ruthie Levi",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Sallie and Ernie",
+    "Gift": "Vase",
+    "Type": "gift-virtual",
+    "Filename": "Sallie and Ernie Levi",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Michael and Rachel",
+    "Gift": "Picture Frame",
+    "Type": "gift-virtual",
+    "Filename": "Salzman/Weinberg",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Sam",
+    "Gift": "knives",
+    "Type": "gift-attended",
+    "Filename": "Sam Cohen",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Seffy and Barak",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Seffy Klineman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Seth and Sho",
+    "Gift": "salad bowl set",
+    "Type": "gift-virtual",
+    "Filename": "Seth and Sho Poloner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shani and Matan",
+    "Gift": "Wine gadgets",
+    "Type": "gift-attended",
+    "Filename": "Shani Mann Albek",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shani and Mark",
+    "Gift": "plates and silverware",
+    "Type": "gift-virtual",
+    "Filename": "Shani Polster",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shari and Yossi",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Shari and Yossi Katz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Sharon",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Sharon Senderowicz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shelly and Eddie",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Shelly and Eddie Kleinman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Sherry and Adrian",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Sherry and Adrian Auman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Sheva and Tal",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Sheva and Tal Levitas",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shimon and Susie",
+    "Gift": "beautiful mezuzah and the home goods (from our engagement party)",
+    "Type": "gift-attended",
+    "Filename": "Shimon and Susie Reich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Lauren",
+    "Gift": "tool kit",
+    "Type": "gift-virtual",
+    "Filename": "Shinar Family",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shira and Noam",
+    "Gift": "Tool Kit",
+    "Type": "gift-attended",
+    "Filename": "Shira Sohn and Noam Kaplansky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shiri",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Shiri Chen",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shlomit",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Shlomit Mamam",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shmuel/Sam",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Shmuel Kirshner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Shulamis",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Shulamis Leibler",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Simcha and Liron",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Simcha and Liron Shimron",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Stephany",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Stephany Hiayev",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Susan and Joel",
+    "Gift": "Bedding",
+    "Type": "gift-attended-us",
+    "Filename": "Susan and Joel Rosh",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Svetta",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Svetta Lebedinsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Sylvia",
+    "Gift": "serving bowl",
+    "Type": "gift-virtual",
+    "Filename": "Sylvia Burian",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Talya and Yisrael",
+    "Gift": "Cookbook",
+    "Type": "gift-attended",
+    "Filename": "Talya and Yisrael Dordek",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Tammy and Kenny",
+    "Gift": "air fryer",
+    "Type": "gift-virtual",
+    "Filename": "Tammy and Kenny Secemski",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Tani and Tamar",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Tani and Tamar Benowitz",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yair and Nathalie",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Tilson",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Tom",
+    "Gift": "Vase and Pie Server",
+    "Type": "gift-virtual",
+    "Filename": "Tom Rayski",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Tova and Yishai",
+    "Gift": "vase",
+    "Type": "gift-virtual",
+    "Filename": "Tova Goldstein and Yishai Chamudot",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Leo, Naomi, Rhonda and Jake",
+    "Gift": "food scale, storage container and salad plates",
+    "Type": "gift-attended-us",
+    "Filename": "Traub Kids",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Veronika",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Veronika Makhlevich",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yaara",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yaara Gal",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yael",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Yael Kosowsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yafit and Joe Goldfarb",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yafit and Joe Goldfarb",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yana",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yana Waserman",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yeshara",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yeshara Novick",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yonatan",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yonatan Lavitsky",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yonina",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yonina Libin and Family",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yuval",
+    "Gift": "Cash",
+    "Type": "cash-attended",
+    "Filename": "Yuval Kalev",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Yvette and Jack",
+    "Gift": "Cash",
+    "Type": "cash-virtual",
+    "Filename": "Yvette and Jack Finkelstein",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Zahava, David and Ariella",
+    "Gift": "Kitchen gadgets and cookbooks",
+    "Type": "gift-attended",
+    "Filename": "Zahava, David and Ariella Bogner",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Zev and Erica",
+    "Gift": "Bedding",
+    "Type": "gift-attended-us",
+    "Filename": "Zev and Erica Skolnick",
+    "FALSE": "FALSE"
+  },
+  {
+    "To": "Zevi and Batsheva",
+    "Gift": "beautiful mezuzah and the home goods (from our engagement party)",
+    "Type": "gift-attended",
+    "Filename": "Zevi and Batsheva Reinitz",
+    "FALSE": "FALSE"
+  }
+]
